@@ -1,2 +1,2 @@
-<h1>Xin chào</h1> 
+<h1>Share source Code: Upload ảnh lên Imgur</h1> 
 <span>Mọi người vào đây để get ClientID: https://api.imgur.com/</span>
